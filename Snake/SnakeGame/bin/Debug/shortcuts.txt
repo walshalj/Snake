@@ -1,0 +1,6 @@
+﻿Use the following keys to play:
+
+ARROW KEYS to change directions.
+Press ENTER or NEW GAME button to begin.
+
+Enjoy hunting apples!!!
